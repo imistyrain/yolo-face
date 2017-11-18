@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/yanhe/data/widerface/trainval.txt
+valid  = /home/yanhe/data/widerface/test.txt
+names = face.names
+backup = backup/
+
